@@ -121,4 +121,9 @@ contract BasicSmartAccount {
     function getNonce() external view returns (uint256) {
         return _storage().nonce;
     }
+
+    // Allow the contract to receive ETH
+    fallback() external payable {}
+
+    receive() external payable {}
 }

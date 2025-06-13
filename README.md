@@ -10,13 +10,13 @@ It is deployed on the following chains:
 
 | Blockchain          | Contract Address                                                                                                                      |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Arbitrum            | [0x19A6c30398c5276466Bf13AF2Ba568ef75026B86](https://arbiscan.io/address/0x19A6c30398c5276466Bf13AF2Ba568ef75026B86#code)             |
-| Base                | [0x19A6c30398c5276466Bf13AF2Ba568ef75026B86](https://basescan.org/address/0x19A6c30398c5276466Bf13AF2Ba568ef75026B86#code)            |
-| Berachain           | [0x19A6c30398c5276466Bf13AF2Ba568ef75026B86](https://berascan.org/address/0x19A6c30398c5276466Bf13AF2Ba568ef75026B86#code)            |
-| Binance Smart Chain | [0x19A6c30398c5276466Bf13AF2Ba568ef75026B86](https://bscscan.com/address/0x19A6c30398c5276466Bf13AF2Ba568ef75026B86#code)             |
-| Ethereum Mainnet    | [0x19A6c30398c5276466Bf13AF2Ba568ef75026B86](https://etherscan.io/address/0x19A6c30398c5276466Bf13AF2Ba568ef75026B86#code)            |
-| Ethereum Holesky    | [0x19A6c30398c5276466Bf13AF2Ba568ef75026B86](https://holesky.etherscan.io/address/0x19A6c30398c5276466Bf13AF2Ba568ef75026B86#code)    |
-| Optimism            | [0x19A6c30398c5276466Bf13AF2Ba568ef75026B86](https://optimistic.etherscan.io/address/0x19A6c30398c5276466Bf13AF2Ba568ef75026B86#code) |
+| Arbitrum            | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://arbiscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)             |
+| Base                | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://basescan.org/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)            |
+| Berachain           | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://berascan.org/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)            |
+| Binance Smart Chain | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://bscscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)             |
+| Ethereum Mainnet    | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)            |
+| Ethereum Holesky    | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://holesky.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)    |
+| Optimism            | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://optimistic.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code) |
 
 ## EIP 7702
 
