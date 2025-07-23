@@ -13,6 +13,7 @@ It is deployed on the following chains:
 | Arbitrum            | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://arbiscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)             |
 | Base                | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://basescan.org/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)            |
 | Berachain           | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://berascan.org/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)            |
+| Berachain Bepolia   | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://testnet.berascan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)    |
 | Binance Smart Chain | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://bscscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)             |
 | Ethereum Mainnet    | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)            |
 | Ethereum Holesky    | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://holesky.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)    |
