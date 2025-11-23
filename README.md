@@ -18,6 +18,7 @@ It is deployed on the following chains:
 | Binance Smart Chain | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://bscscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                    |
 | Ethereum Mainnet    | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                   |
 | Ethereum Holesky    | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://holesky.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)           |
+| Monad               | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://monadscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                  |
 | Optimism            | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://optimistic.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)        |
 | Plasma              | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://plasmascan.to/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f/contract/9745/code)    |
 | Polygon             | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://polygonscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                |
