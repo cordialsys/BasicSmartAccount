@@ -22,6 +22,7 @@ It is deployed on the following chains:
 | Optimism            | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://optimistic.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)        |
 | Plasma              | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://plasmascan.to/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f/contract/9745/code)    |
 | Polygon             | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://polygonscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                |
+| Stable              | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://stablescan.xyz/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                 |
 
 ## EIP 7702
 
@@ -65,6 +66,14 @@ Foundry consists of:
 ## Documentation
 
 https://book.getfoundry.sh/
+
+Note that to deploy to the deployment address, you must use foundry v1.2.3 currently.
+
+```bash
+foundryup -i 1.2.3
+```
+
+This is because the contract is currently grandfathered into including the metadata hash.
 
 ## Usage
 

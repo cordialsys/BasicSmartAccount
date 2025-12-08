@@ -6,4 +6,9 @@ libs = ["lib"]
 # Pin these settings to ensure deterministic contract address
 solc = "0.8.30"
 
-# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+# # TODO on a future deployment, we should enable these settings:
+# # We missed it and are grandfathered into including the metadata hash (using forge v1.2.3).
+# optimizer = true
+# optimizer_runs = 200
+# bytecode_hash = "none"
+# cbor_metadata = false
