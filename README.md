@@ -67,13 +67,10 @@ Foundry consists of:
 
 https://book.getfoundry.sh/
 
-Note that to deploy to the deployment address, you must use foundry v1.2.3 currently.
-
-```bash
-foundryup -i 1.2.3
-```
-
-This is because the contract is currently grandfathered into including the metadata hash.
+The contract is currently grandfathered into including the metadata hash. To produce the deployment
+address with newer foundry releases, `foundry.toml` pins `evm_version = "cancun"` (foundry v1.2.3
+defaulted to cancun; later releases default to a newer EVM version, which changes the metadata hash
+embedded in the bytecode and therefore the CREATE2 address).
 
 ## Usage
 
