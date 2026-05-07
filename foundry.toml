@@ -5,6 +5,7 @@ libs = ["lib"]
 
 # Pin these settings to ensure deterministic contract address
 solc = "0.8.30"
+evm_version = "cancun"
 
 # # TODO on a future deployment, we should enable these settings:
 # # We missed it and are grandfathered into including the metadata hash (using forge v1.2.3).
