@@ -18,6 +18,7 @@ It is deployed on the following chains:
 | Binance Smart Chain | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://bscscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                    |
 | Ethereum Mainnet    | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                   |
 | Ethereum Holesky    | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://holesky.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)           |
+| Ethereum Hoodi      | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://hoodi.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)             |
 | MegaETH             | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://mega.etherscan.io/address/0x7785a22facd31db653ba4928f1d5b81d093f0b2f#code)              |
 | Monad               | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://monadscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                  |
 | Optimism            | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://optimistic.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)        |
