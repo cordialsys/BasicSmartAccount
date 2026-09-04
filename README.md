@@ -8,24 +8,25 @@ DFNS is also using a modfied [SafeLite example and completed an audit for it](ht
 
 It is deployed on the following chains:
 
-| Blockchain          | Contract Address                                                                                                                             |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0g                  | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://chainscan.0g.ai/address/0x7785a22facd31db653ba4928f1d5b81d093f0b2f?tab=contract-viewer) |
-| Arbitrum            | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://arbiscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                    |
-| Base                | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://basescan.org/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                   |
-| Berachain           | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://berascan.org/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                   |
-| Berachain Bepolia   | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://testnet.berascan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)           |
-| Binance Smart Chain | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://bscscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                    |
-| Ethereum Mainnet    | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                   |
-| Ethereum Holesky    | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://holesky.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)           |
-| Ethereum Hoodi      | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://hoodi.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)             |
-| MegaETH             | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://mega.etherscan.io/address/0x7785a22facd31db653ba4928f1d5b81d093f0b2f#code)              |
-| Monad               | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://monadscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                  |
-| Optimism            | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://optimistic.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)        |
-| Plasma              | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://plasmascan.to/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f/contract/9745/code)    |
-| Polygon             | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://polygonscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                |
-| Stable              | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://stablescan.xyz/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                 |
-| Tempo               | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://explore.tempo.xyz/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f?tab=contract)      |
+| Blockchain          | Contract Address                                                                                                                                    |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0g                  | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://chainscan.0g.ai/address/0x7785a22facd31db653ba4928f1d5b81d093f0b2f?tab=contract-viewer)        |
+| Arbitrum            | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://arbiscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                           |
+| Base                | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://basescan.org/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                          |
+| Berachain           | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://berascan.org/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                          |
+| Berachain Bepolia   | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://testnet.berascan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                  |
+| Binance Smart Chain | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://bscscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                           |
+| Ethereum Mainnet    | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                          |
+| Ethereum Holesky    | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://holesky.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                  |
+| Ethereum Hoodi      | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://hoodi.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                    |
+| MegaETH             | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://mega.etherscan.io/address/0x7785a22facd31db653ba4928f1d5b81d093f0b2f#code)                     |
+| Monad               | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://monadscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                         |
+| Optimism            | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://optimistic.etherscan.io/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)               |
+| Plasma              | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://plasmascan.to/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f/contract/9745/code)           |
+| Polygon             | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://polygonscan.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                       |
+| Robinhood Chain     | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://robinhoodchain.blockscout.com/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f?tab=contract) |
+| Stable              | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://stablescan.xyz/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f#code)                        |
+| Tempo               | [0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f](https://explore.tempo.xyz/address/0x7785a22Facd31dB653bA4928f1D5B81D093f0b2f?tab=contract)             |
 
 ## EIP 7702
 
